@@ -1,6 +1,5 @@
 # NOTE
-
-We changed to github pages. Please use https://frc2713.github.io/QRScout/ until we redirect http://scout.redhawkrobotics.org
+Thanks to FRC 2713 (Redhawk Robotics) for the awesome tool!
 
 # QRScout
 
