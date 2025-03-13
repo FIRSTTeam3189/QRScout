@@ -21,7 +21,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  VITE_STATSIG_CLIENT_KEY: client-FccOCTznRdYyGr7cx3vJoyoWyO1BTqBzv6S2g1lYPvB
+  VITE_STATSIG_CLIENT_KEY: client-HDb4FCrGR3IqSyReni6eYW13CfFbsJfPiOrboMaSedr
 
 jobs:
   # Single deploy job since we're just deploying
