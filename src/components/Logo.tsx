@@ -1,4 +1,4 @@
-const defaultStyle = {
+/*const defaultStyle = {
   fill: '#ef3340',
   fillOpacity: 1,
 };
@@ -27,7 +27,11 @@ const style4 = {
   fontFamily: 'SF Sports Night NS',
   ...strokeStyle,
 };
-
+*/
+export function Logo() {
+  return <div></div>
+}
+/*
 export function Logo() {
   return (
     <svg
@@ -250,3 +254,4 @@ export function Logo() {
     </svg>
   );
 }
+*/
